@@ -49,6 +49,7 @@
         android:id="@+id/btnMostrarMapa"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Mostrar Mapa" />
+        android:text="Mostrar Mapa"
+        android:onClick="mostrarMapa"/>
 
 </LinearLayout>
